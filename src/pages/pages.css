@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.contentContainer{
+    background-image: linear-gradient(to right , #561400, #640016, #6a0032, #5b0059, #000284); 
+    display: flex; 
+    align-content: center;
+    justify-content: center;
+    height: 90vh;
+}
+h1{
+    color: white;
+}

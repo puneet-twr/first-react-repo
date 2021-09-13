@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    margin: 0;
+    /* background-color: aqua; */
+    background-image: linear-gradient(to left, #561400, #640016, #6a0032, #5b0059, #000284);
+    height: 10vh;
+    z-index: 20;
+}
+.header li{
+    display: inline;   
+    padding: 10px;
+}
+h3{
+    color: white;
+    text-align: center;
+}

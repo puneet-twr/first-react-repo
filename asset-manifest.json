@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/first-react-repo/static/css/main.0e758168.chunk.css",
+    "main.js": "/first-react-repo/static/js/main.13c141b0.chunk.js",
+    "main.js.map": "/first-react-repo/static/js/main.13c141b0.chunk.js.map",
+    "runtime-main.js": "/first-react-repo/static/js/runtime-main.a39adf19.js",
+    "runtime-main.js.map": "/first-react-repo/static/js/runtime-main.a39adf19.js.map",
+    "static/js/2.53e25b40.chunk.js": "/first-react-repo/static/js/2.53e25b40.chunk.js",
+    "static/js/2.53e25b40.chunk.js.map": "/first-react-repo/static/js/2.53e25b40.chunk.js.map",
+    "static/js/3.7848c86e.chunk.js": "/first-react-repo/static/js/3.7848c86e.chunk.js",
+    "static/js/3.7848c86e.chunk.js.map": "/first-react-repo/static/js/3.7848c86e.chunk.js.map",
+    "index.html": "/first-react-repo/index.html",
+    "static/css/main.0e758168.chunk.css.map": "/first-react-repo/static/css/main.0e758168.chunk.css.map",
+    "static/js/2.53e25b40.chunk.js.LICENSE.txt": "/first-react-repo/static/js/2.53e25b40.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/first-react-repo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39adf19.js",
+    "static/js/2.53e25b40.chunk.js",
+    "static/css/main.0e758168.chunk.css",
+    "static/js/main.13c141b0.chunk.js"
+  ]
+}
